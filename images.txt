@@ -1,6 +1,6 @@
-nginx
+alpine
 #支持私库
 xhofe/alist:latest
-registry.rocket.chat/rocketchat/rocket.chat:6.2.11
+registry.rocket.chat/rocketchat/rocket.chat:alpine
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
