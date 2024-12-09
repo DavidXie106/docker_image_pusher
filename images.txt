@@ -1,5 +1,5 @@
 #rocket.chat:7
 #mongodb-community-server:7.0.12-ubi9
-mongodb/mongodb-community-server:6.0.9-ubi8
+mongodb/mongodb-community-server:4.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
