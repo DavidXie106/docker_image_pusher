@@ -1,5 +1,5 @@
-#rocket.chat:7
+rocketchat/rocket.chat:7.0.0
 #mongodb-community-server:7.0.12-ubi9
-mongodb/mongodb-community-server:6.0-ubuntu2204
+#mongodb/mongodb-community-server:6.0-ubuntu2204
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
