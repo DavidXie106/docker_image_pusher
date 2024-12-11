@@ -1,4 +1,5 @@
-mongodb/mongodb-community-server:6.0.0-ubi8
+bitnami/prometheus:latest
+#mongodb/mongodb-community-server:6.0.0-ubi8
 #rocket.chat:6.10
 #rocketchat/rocket.chat:7.0.0
 #mongodb-community-server:7.0.12-ubi9
