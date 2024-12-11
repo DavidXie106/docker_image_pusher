@@ -1,4 +1,4 @@
-1and1internet/blackbox_exporter:latest
+bitnami/blackbox-exporter:latest
 #bitnami/prometheus:latest
 #mongodb/mongodb-community-server:6.0.0-ubi8
 #rocket.chat:6.10
