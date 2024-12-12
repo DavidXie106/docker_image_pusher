@@ -1,4 +1,5 @@
-bitnami/blackbox-exporter:latest
+grafana/grafana:8.4.7
+#bitnami/blackbox-exporter:latest
 #bitnami/prometheus:latest
 #mongodb/mongodb-community-server:6.0.0-ubi8
 #rocket.chat:6.10
