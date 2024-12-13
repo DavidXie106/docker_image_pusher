@@ -1,5 +1,5 @@
-#bitnami/mongodb:4.0.0
-rocket.chat:6.12.2
+bitnami/mongodb:4.4.0
+#rocket.chat:6.12.2
 #rocket.chat:7.0.0
 #grafana/grafana:8.4.7
 #bitnami/blackbox-exporter:latest
