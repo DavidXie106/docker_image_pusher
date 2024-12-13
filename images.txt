@@ -1,12 +1,7 @@
-amd64/rocket.chat:6.9.7
+rocket.chat:7.0.0
 #grafana/grafana:8.4.7
 #bitnami/blackbox-exporter:latest
 #bitnami/prometheus:latest
 #bitnami/mongodb:7.0
-#rocket.chat:6.10
-#rocket.chat:latest
-#rocketchat/rocket.chat:7.0.0
-#mongodb-community-server:7.0.12-ubi9
-#mongodb/mongodb-community-server:6.0-ubuntu2204
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
