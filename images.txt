@@ -1,4 +1,5 @@
-bitnami/mongodb:6.0.0
+egymgmbh/jdk11-builder:latest
+#bitnami/mongodb:6.0.0
 #rocket.chat:6.12.2
 #rocket.chat:7.0.0
 #grafana/grafana:8.4.7
