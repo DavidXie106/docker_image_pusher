@@ -1,4 +1,4 @@
-egymgmbh/jdk11-builder:latest
+--platform=linux/amd64 egymgmbh/jdk11-builder:latest
 ##bitnami/mongodb:6.0.0
 #rocket.chat:6.12.2
 #rocket.chat:7.0.0
