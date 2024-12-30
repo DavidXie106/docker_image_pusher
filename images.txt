@@ -1,4 +1,4 @@
---platform=linux/amd64 egymgmbh/jdk11-builder:latest
+docker.m.daocloud.io/library/openjdk:11.0.9.1-jdk
 ##bitnami/mongodb:6.0.0
 #rocket.chat:6.12.2
 #rocket.chat:7.0.0
