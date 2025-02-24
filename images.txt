@@ -1,4 +1,4 @@
-mysql:8.0
+hotelinking/mysql8.0:latest
 ##bitnami/mongodb:6.0.0
 #rocket.chat:6.12.2
 #rocket.chat:7.0.0
