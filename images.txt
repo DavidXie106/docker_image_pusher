@@ -1,5 +1,5 @@
 --platform=linux/arm64 ngvgscalliope/mysql8.0:latest
-mysql:8.0.13
+#mysql:8.0.13
 #registry:2
 ##bitnami/mongodb:6.0.0
 #rocket.chat:6.12.2
