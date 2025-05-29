@@ -1,4 +1,4 @@
---platform=linux/arm64 biarms/mysql:5.7.30
+mysql:8.0.13
 #registry:2
 ##bitnami/mongodb:6.0.0
 #rocket.chat:6.12.2
