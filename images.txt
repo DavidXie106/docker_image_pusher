@@ -1,4 +1,4 @@
---platform=linux/arm64 ngvgscalliope/mysql8.0:latest
+--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/com.gosun.smart-statistic:2.1.4-xq-RC1-SNAPSHOT
 #mysql:8.0.13
 #registry:2
 ##bitnami/mongodb:6.0.0
