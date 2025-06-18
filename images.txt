@@ -1,4 +1,5 @@
---platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/com.gosun.smart-car-eyeofcloud:1.0.0-SNAPSHOT
+nginx:alpine
+#--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/com.gosun.smart-car-eyeofcloud:1.0.0-SNAPSHOT
 #mysql:8.0.13
 #registry:2
 ##bitnami/mongodb:6.0.0
