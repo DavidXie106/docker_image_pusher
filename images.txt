@@ -1,5 +1,5 @@
 #nginx:alpine
---platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/com.gosun.smart-app-base:2.4.1-RC1-SNAPSHOT
+--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/com.gosun.smart-applet:2.4.0-RC1-SNAPSHOT
 #mysql:8.0.13
 #registry:2
 ##bitnami/mongodb:6.0.0
