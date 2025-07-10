@@ -1,5 +1,5 @@
 #nginx:alpine
---platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/com.gosun.smart-transfer:2.4.0-SNAPSHOT
+--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/com.gosun.smart-base:smart-video-1.0.0-SNAPSHOT
 #mysql:8.0.13
 #registry:2
 ##bitnami/mongodb:6.0.0
