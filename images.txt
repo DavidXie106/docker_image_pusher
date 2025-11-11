@@ -1,4 +1,4 @@
-docker pull docker.io/library/nginx:1.32-alpine
+docker.io/library/nginx:1.32-alpine
 #nginx:alpine
 #--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/media-server:lite-3.21.1
 #mysql:8.0.13
