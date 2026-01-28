@@ -1,4 +1,4 @@
-nacos/nacos-server:v2.0.0
+nacos/nacos-server:v2.3.0
 #nginx:alpine
 #nginx:alpine
 #--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/media-server:lite-3.21.1
