@@ -1,4 +1,5 @@
-nginx:alpine
+registry.cn-hangzhou.aliyuncs.com/nacos/nacos-server:v2.3.0
+#nginx:alpine
 #nginx:alpine
 #--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/gosun/media-server:lite-3.21.1
 #mysql:8.0.13
